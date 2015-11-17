@@ -34,7 +34,7 @@ h1 {
     min-height: 40px;
     margin: 20px -50px;
     padding: 15px 50px;
-    background: #438aa5;
+    background: #00b9ff;
     color: white;
     font-size: 36px;
     line-height: 36px;
@@ -44,7 +44,7 @@ h2 {
     height: 40px;
     margin: 50px 0 50px -50px;
     padding: 0 0 0 50px;
-    background: #438aa5;
+    background: #00b9ff;
     color: white;
     font-size: 20px;
     line-height: 40px;
@@ -206,13 +206,13 @@ h6 {
     margin: 0 auto;
     border-width: 0 5px;
     border-style: solid;
-    border-color: #438aa5;
+    border-color: #00b9ff;
 }
 
 header.header {
     width: 900px;
     height: 60px;
-    background: #438aa5;
+    background: #00b9ff;
     overflow: auto;
     font-family: "Roboto Slab";
 }
@@ -230,7 +230,7 @@ header.header a.heading {
 }
 
 nav.nav ul li a {
-    color: #438aa5;
+    color: #00b9ff;
     text-decoration: none;
 }
 
@@ -279,7 +279,7 @@ nav.resource-categories ul li {
     font-family: "Roboto Slab";
     font-size: 18px;
     font-weight: 500;
-    color: #438aa5;
+    color: #00b9ff;
 }
 
 .teach nav.resource-categories ul li.teach {
@@ -310,7 +310,7 @@ nav.resource-categories ul li + li:before {
 
 nav.buttons {
     margin: 50px 0;
-    border-top: 4px solid #438aa5;
+    border-top: 4px solid #00b9ff;
 }
 
 nav.buttons a.button {
@@ -320,7 +320,7 @@ nav.buttons a.button {
     height: 60px;
     line-height: 60px;
     margin: 50px;
-    background: #438aa5;
+    background: #00b9ff;
     color: white;
     font-family: "Roboto Slab";
     font-size: 18px;
@@ -344,7 +344,7 @@ nav.buttons.one a.button {
     min-height: 20px;
     margin: 0 0 20px -20px;
     background: none;
-    color: #438aa5;
+    color: #00b9ff;
     clear: both;
 }
 
@@ -364,7 +364,7 @@ nav.buttons.one a.button {
     float: left;
     margin: 5px 0;
     list-style-type: none;
-    border-color: #438aa5;
+    border-color: #00b9ff;
     border-style: solid;
     border-width: 3px 3px 0 0;
 }
@@ -383,7 +383,7 @@ nav.buttons.one a.button {
     width: 194px;
     height: 36px;
     padding: 10px 3px;
-    background: #438aa5;
+    background: #00b9ff;
     color: white;
     font-size: 12px;
     line-height: 18px;
@@ -528,7 +528,7 @@ footer.footer a.gh {
 }
 
 footer.footer a:link, footer.footer a:visited {
-    color: #438aa5;
+    color: #00b9ff;
     text-decoration: none;
 }
 
